@@ -62,7 +62,21 @@ rsync -avv oldcomp:/Users/Shared /Users/
 After the first sync is complete, close everything, logout of old
 box, and do final sync to catch last minute changes.
 
+```
+rsync -avv oldcomp:/Users/$USER /Users/
+```
 
+Reboot new box, login, and things should look mostly like they did on
+old box.
+
+
+## Misc issues
+
+* Launchbar (or Alfred) needs to be told your apps are in /opt/homebrew-cask/Caskroom
+* Licenses for many things don't get carried over for some reason.
+** some might have been due to installing more recent versions via brew cask
+* In this case I moved from Mavericks to Yosemite in the process, so
+  bunch of prefs to tweak.
 
 # TODO
 
@@ -70,3 +84,4 @@ To make this easier in the future:
 * Symlink .dotdirs (e..g .npm) to /usr/local/dotcaches or similar
 * split iPhoto lib and archive in pieces
 * make/find a script to prune caches everywhere
+* Store all licenses in 1password
