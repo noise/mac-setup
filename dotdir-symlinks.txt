@@ -1,0 +1,14 @@
+# work in progress
+
+.docker
+.meteor
+.npm
+.rbenv
+.vagrant.d
+
+~/Library/Application Support/Dash/DocSets
+~/Library/Application Support/MobileSync/Backup
+~/Library/Application Support/Postgres
+
+
+

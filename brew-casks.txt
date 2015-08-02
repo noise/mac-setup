@@ -1,0 +1,57 @@
+1password
+acslogo
+adium
+aquamacs
+arq
+charles
+dash
+disk-inventory-x
+dropbox
+electric-sheep
+evernote
+firefox
+flash
+flux
+fritzing
+google-chrome
+google-drive
+google-notifier
+graphviz
+growlnotify
+handbrake
+ibank
+inform
+iterm2
+launchbar
+navicat-for-postgresql
+omnigraffle
+omnioutliner
+plex-media-server
+processing
+robomongo
+sketchup
+skype
+slack
+sourcetree
+subler
+telegram
+utorrent
+virtual-ii
+virtualbox
+viscosity
+vlc
+vmware-fusion
+wireshark
+xquartz
+zterm
+
+# No casks yet:
+# -----------
+# beeralchemy
+# Consultant's Canary
+# Context Free
+# pixelmator
+# synctunesmac
+# wunderlist
+# xchat-azure
+
