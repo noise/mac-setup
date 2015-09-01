@@ -85,3 +85,4 @@ To make this easier in the future:
 * split iPhoto lib and archive in pieces
 * make/find a script to prune caches everywhere
 * Store all licenses in 1password
+* backup /etc just in case. E.g. my /etc/hosts got lost this time :(
